@@ -1,0 +1,17 @@
+.metronome {
+    height: 100%;
+    padding: 2rem;
+}
+
+.screen {
+    border: 1px solid rgba(125, 125, 125, 0.1);
+    height: 10rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.screen-speed {
+    font-size: 5rem;
+}
